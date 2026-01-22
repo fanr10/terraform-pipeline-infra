@@ -1,0 +1,1 @@
+bucket_name = "dev-us-east1-terraform-state-bucket"
